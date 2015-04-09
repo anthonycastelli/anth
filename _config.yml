@@ -3,7 +3,7 @@ title: Anthony's Random Writings
 header-img: img/home-bg.jpg
 email: neueanthony@me.com
 description: "Random writings about anything from tech and development to music."
-#baseurl: "/startbootstrap-clean-blog-jekyll"
+baseurl: "/anth"
 url: "http://yourdomain.com"
 twitter_username: anthness
 github_username:  anthonycastelli
