@@ -1,0 +1,17 @@
+# Site settings
+title: Anthony's Random Writings
+header-img: img/home-bg.jpg
+email: neueanthony@me.com
+description: "Random writings about anything from tech and development to music."
+baseurl: "/startbootstrap-clean-blog-jekyll"
+url: "http://yourdomain.com"
+twitter_username: anthness
+github_username:  anthonycastelli
+# facebook_username:
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
