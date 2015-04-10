@@ -7,24 +7,24 @@ gems:
 # Site settings
 title: "Anthony's Random Writings"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+  Everything from development to music
 
 email: neueanthony@me.com
 
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/anth.jpg"
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/home-bg.jpg"
 
 name: 'Anthony Castelli'
 author: 'Anthony Castelli'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/anth.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
+url: "http://anthonycastelli.github.io" # the base hostname & protocol for your site
+baseurl: "/anth"
 
 # social icons and sharing options
 social:
