@@ -23,7 +23,7 @@ author_image: "/anth/assets/images/anth.jpg"
 
 paginate:	5
 
-#url: "http://anthonycastelli.github.io/anth" # the base hostname & protocol for your site
+url: "http://anthonycastelli.github.io/anth" # the base hostname & protocol for your site
 baseurl: "/anth"
 
 # social icons and sharing options
