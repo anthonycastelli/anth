@@ -12,14 +12,14 @@ description: > # this means to ignore newlines until "email:"
 email: neueanthony@me.com
 
 #blog logo
-logo: "/assets/images/anth.jpg"
+logo: "/anth/assets/images/anth.jpg"
 
 # blog cover
-cover: "/assets/images/home-bg.jpg"
+cover: "/anth/assets/images/home-bg.jpg"
 
 name: 'Anthony Castelli'
 author: 'Anthony Castelli'
-author_image: "/assets/images/anth.jpg"
+author_image: "/anth/assets/images/anth.jpg"
 
 paginate:	5
 
