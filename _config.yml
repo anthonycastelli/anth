@@ -27,6 +27,8 @@ paginate:	5
 baseurl: "/anth"
 
 # Analytics
+google_analytics: UA-61761521-1
+
 analytics:
   provider: google
   google:
